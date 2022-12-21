@@ -6,7 +6,7 @@ The website focuses on learning DOM manipulation .
 
 - querySelector
 
-## [Live Preview]()
+## [Live Preview](https://calculators-basic-app.netlify.app/)
 
 ### SnapShot of the Webpage
 
